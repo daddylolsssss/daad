@@ -43,7 +43,7 @@ Rayfield:Notify({
 })
 
 local Button = Tab:CreateButton({
-	Name = "Button Example",
+	Name = "Paid Arsenal GUI",
 	Callback = function()
 		--[[
   ########################### TechnicalHub ###########################
